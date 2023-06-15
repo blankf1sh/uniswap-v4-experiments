@@ -1,3 +1,14 @@
+# Tweet
+
+[Fun hook implementations](https://twitter.com/0xTaker/status/1669089729910800384)
+
+- One-way ponzi pools i.e can only buy one way
+- Salmonella v2: the hookening
+- Privilege escalation (if pool key isn't checked)
+- Pool-state-as-oracle manipulation
+
+---
+
 # v4-template
 ### **A template for writing Uniswap V4 Hooks 🦄**
 
